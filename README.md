@@ -48,7 +48,7 @@ You need to have a **Java Development Kit (JDK) version 8 or higher** installed 
 
 1.  **Clone the repository (or download the code)**
     ```sh
-    git clone [https://github.com/chinna1307/CodeAlpha_HotelReservationSystem](https://github.com/chinna1307/CodeAlpha_HotelReservationSystem)
+    git clone [https://github.com/chinna1307/CodeAlpha_HotelReservationSystem]
     cd hotel-reservation-system
     ```
 
